@@ -1,0 +1,436 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 19 Jan 2024 10:04:37 at https://alumaxboats.nl/en/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://alumaxboats.nl/en/ -O1 "C:\My Web Sites\alumax" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:05:08	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://alumaxboats.nl/wp-content/plugins/woocommerce-products-filter/ext/select_hierarchy/css/html_types/select_hierarchy.css?ver=3.3.4.3
+10:05:10	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://alumaxboats.nl/wp-content/plugins/woocommerce-products-filter/ext/slider/css/html_types/slider.css?ver=3.3.4.3
+10:13:26	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://alumaxboats.nl/en/)
+10:15:41	Warning: 	Found for https://alumaxboats.nl/en/webshop/
+10:15:41	Warning: 	File has moved from https://alumaxboats.nl/en/webshop/ to https://alumaxboats.nl/en/webshop-en/
+10:20:31	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/https:/alumaxboats.nl/wp-content/uploads/2021/09/bc-opleidingen-400x400_Tekengebied-1-300x300.png (from https://alumaxboats.nl/en/)
+10:20:31	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/https:/alumaxboats.nl/wp-content/uploads/2021/09/KWS-400x400_Tekengebied-1-300x300.png (from https://alumaxboats.nl/en/)
+10:20:31	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/https:/alumaxboats.nl/wp-content/uploads/2020/12/Brandweer-friesland-300x300.jpg (from https://alumaxboats.nl/en/)
+10:20:31	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/https:/alumaxboats.nl/wp-content/uploads/2020/12/GVG-Amsterdam-300x124.png (from https://alumaxboats.nl/en/)
+10:20:31	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/https:/alumaxboats.nl/wp-content/uploads/2021/09/floating-solar-logo-300x146.png (from https://alumaxboats.nl/en/)
+10:20:31	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/https:/alumaxboats.nl/wp-content/uploads/2020/12/Landschap-Noord-Holland-263x300.jpg (from https://alumaxboats.nl/en/)
+10:20:31	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/https:/alumaxboats.nl/wp-content/uploads/2021/09/imerpial-logistics_Tekengebied-1-300x142.png (from https://alumaxboats.nl/en/)
+10:20:31	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/https:/alumaxboats.nl/wp-content/uploads/2021/09/Logo-Rijkswaterstaat-300x178.png (from https://alumaxboats.nl/en/)
+10:20:31	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/https:/alumaxboats.nl/wp-content/uploads/2021/09/Gemeente-Den-Haag-300x288.png (from https://alumaxboats.nl/en/)
+10:20:31	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/https:/alumaxboats.nl/wp-content/uploads/2021/09/thebodewesgroup-400x400_Tekengebied-1-300x300.png (from https://alumaxboats.nl/en/)
+10:20:31	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/https:/alumaxboats.nl/wp-content/uploads/2021/09/VANDERKAMP-400X400_Tekengebied-1-300x300.png (from https://alumaxboats.nl/en/)
+10:20:31	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/https:/alumaxboats.nl/wp-content/uploads/2021/09/watertaxi-rotterdam-logo-300x123.png (from https://alumaxboats.nl/en/)
+10:20:31	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/https:/alumaxboats.nl/wp-content/uploads/2021/09/zeelandsroem-logo_Tekengebied-1-300x300.png (from https://alumaxboats.nl/en/)
+10:20:31	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/https:/alumaxboats.nl/wp-content/uploads/2021/09/mokumboo-logo_Tekengebied-1-300x122.png (from https://alumaxboats.nl/en/)
+10:20:31	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/https:/alumaxboats.nl/wp-content/uploads/2021/09/gemeente-urk-logo-300x169.png (from https://alumaxboats.nl/en/)
+10:20:31	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/https:/alumaxboats.nl/wp-content/uploads/2020/12/Hengelsport-Federatie-Midden-Nederland-300x300.jpg (from https://alumaxboats.nl/en/)
+10:20:31	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/https:/alumaxboats.nl/wp-content/uploads/2021/09/deltamarina-400x400_Tekengebied-1-300x300.png (from https://alumaxboats.nl/en/)
+10:20:31	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/https:/alumaxboats.nl/wp-content/uploads/2021/09/Logo-Columbus-trans-300x85.png (from https://alumaxboats.nl/en/)
+10:20:31	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/https:/alumaxboats.nl/wp-content/uploads/2021/09/brandweer-kennemerland_Tekengebied-1-300x106.png (from https://alumaxboats.nl/en/)
+10:20:31	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/https:/alumaxboats.nl/wp-content/uploads/2021/09/voltex-jsonld-logo-300x101.png (from https://alumaxboats.nl/en/)
+10:20:31	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/https:/alumaxboats.nl/wp-content/uploads/2021/09/tebezo-logo_Tekengebied-1-300x115.png (from https://alumaxboats.nl/en/)
+10:20:31	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/https:/alumaxboats.nl/wp-content/uploads/2020/12/WSV-noord-beveland.png (from https://alumaxboats.nl/en/)
+10:20:31	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/https:/alumaxboats.nl/wp-content/uploads/2021/09/BAM-International-300x120.png (from https://alumaxboats.nl/en/)
+10:20:31	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/https:/alumaxboats.nl/wp-content/uploads/2022/06/gemeente-kampen-logo-300x233.png (from https://alumaxboats.nl/en/)
+10:20:31	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/https:/alumaxboats.nl/wp-content/uploads/2022/06/JBT_jamesboat_LOGO-01-300x133.png (from https://alumaxboats.nl/en/)
+10:20:36	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://alumaxboats.nl/wp-content/plugins/yith-woocommerce-catalog-mode-premium/assets/css/frontend.min.css?ver=2.27.0
+10:36:12	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8050
+10:36:12	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8050 to https://alumaxboats.nl/en/return-policy-alumax-boats-b-v/
+10:36:12	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7797
+10:36:12	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7797 to https://alumaxboats.nl/en/news/
+10:38:06	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7807
+10:38:06	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7807 to https://alumaxboats.nl/en/more-than-just-brothers-in-law/
+10:38:06	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7824
+10:38:06	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7824 to https://alumaxboats.nl/en/vacancies/
+10:38:06	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7806
+10:38:06	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7806 to https://alumaxboats.nl/en/terms-of-delivery-aluminum-boat/
+10:38:06	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7801
+10:38:06	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7801 to https://alumaxboats.nl/en/contact/
+10:38:06	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7813
+10:38:06	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7813 to https://alumaxboats.nl/en/maintenance-and-service/
+10:38:06	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7789
+10:38:06	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7789 to https://alumaxboats.nl/en/alumax-trial-days/
+10:39:39	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8051
+10:39:39	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8051 to https://alumaxboats.nl/en/home-of-the-water-taxi/
+10:39:39	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/home-of-the-water-taxi/https:/alumaxboats.nl/wp-content/uploads/2020/12/14.jpg (from https://alumaxboats.nl/en/home-of-the-water-taxi/)
+10:39:39	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/home-of-the-water-taxi/https:/alumaxboats.nl/wp-content/uploads/2020/12/watertaxi-1.png (from https://alumaxboats.nl/en/home-of-the-water-taxi/)
+10:39:39	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/home-of-the-water-taxi/https:/alumaxboats.nl/wp-content/uploads/2020/12/30.jpg (from https://alumaxboats.nl/en/home-of-the-water-taxi/)
+10:39:39	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/home-of-the-water-taxi/https:/alumaxboats.nl/wp-content/uploads/2020/12/DSC_0426-min.jpg (from https://alumaxboats.nl/en/home-of-the-water-taxi/)
+10:39:39	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/home-of-the-water-taxi/https:/alumaxboats.nl/wp-content/uploads/2020/12/7.jpg (from https://alumaxboats.nl/en/home-of-the-water-taxi/)
+10:39:39	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/home-of-the-water-taxi/https:/alumaxboats.nl/wp-content/uploads/2020/12/DSC_0413-min.jpg (from https://alumaxboats.nl/en/home-of-the-water-taxi/)
+10:39:39	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/home-of-the-water-taxi/https:/alumaxboats.nl/wp-content/uploads/2020/12/DSC_0427-min.jpg (from https://alumaxboats.nl/en/home-of-the-water-taxi/)
+10:39:39	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/home-of-the-water-taxi/https:/alumaxboats.nl/wp-content/uploads/2020/12/DSC_0418-min.jpg (from https://alumaxboats.nl/en/home-of-the-water-taxi/)
+10:39:39	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/home-of-the-water-taxi/https:/alumaxboats.nl/wp-content/uploads/2021/08/agnesmulder_CDA_Bezoek_Alumax.jpg (from https://alumaxboats.nl/en/home-of-the-water-taxi/)
+10:39:39	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/home-of-the-water-taxi/https:/alumaxboats.nl/wp-content/uploads/2020/12/DSC_0423-min.jpg (from https://alumaxboats.nl/en/home-of-the-water-taxi/)
+10:39:39	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/home-of-the-water-taxi/https:/alumaxboats.nl/wp-content/uploads/2021/11/Waterstof-aluminium-watertaxi-Alumax-Boats.jpg (from https://alumaxboats.nl/en/home-of-the-water-taxi/)
+10:39:39	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/home-of-the-water-taxi/https:/alumaxboats.nl/wp-content/uploads/2021/11/Watertaxi-Flying-Fish-Alumax.png (from https://alumaxboats.nl/en/home-of-the-water-taxi/)
+10:39:39	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/home-of-the-water-taxi/https:/alumaxboats.nl/wp-content/uploads/2021/11/waterstof-watertaxi-alumax-e1660721239464.jpg (from https://alumaxboats.nl/en/home-of-the-water-taxi/)
+10:39:39	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/home-of-the-water-taxi/https:/alumaxboats.nl/wp-content/uploads/2021/11/Publiciteistfotos-MSTX-22-Rijnhaven-4-e1660721564278.jpg (from https://alumaxboats.nl/en/home-of-the-water-taxi/)
+10:39:39	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/home-of-the-water-taxi/https:/alumaxboats.nl/wp-content/uploads/2021/11/Publiciteistfotos-MSTX-22-Rijnhaven-16-e1660721599323.jpg (from https://alumaxboats.nl/en/home-of-the-water-taxi/)
+10:39:42	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8742
+10:39:42	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8742 to https://alumaxboats.nl/en/occasions-en/occasion-bullit-660-outboard/
+10:39:42	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Foccasions-en%2Foccasion-bullit-660-outboard%2F (from https://alumaxboats.nl/en/occasions-en/occasion-bullit-660-outboard/)
+10:39:42	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Foccasions-en%2Foccasion-bullit-660-outboard%2F&format=xml (from https://alumaxboats.nl/en/occasions-en/occasion-bullit-660-outboard/)
+10:39:57	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7875
+10:39:57	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7875 to https://alumaxboats.nl/en/private-use/the-next-e/
+10:39:57	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fprivate-use%2Fthe-next-e%2F (from https://alumaxboats.nl/en/private-use/the-next-e/)
+10:39:57	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fprivate-use%2Fthe-next-e%2F&format=xml (from https://alumaxboats.nl/en/private-use/the-next-e/)
+10:40:33	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7865
+10:40:33	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7865 to https://alumaxboats.nl/en/tenders-en/bullit-660-inboard/
+10:40:33	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Ftenders-en%2Fbullit-660-inboard%2F (from https://alumaxboats.nl/en/tenders-en/bullit-660-inboard/)
+10:40:33	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Ftenders-en%2Fbullit-660-inboard%2F&format=xml (from https://alumaxboats.nl/en/tenders-en/bullit-660-inboard/)
+10:41:11	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8076
+10:41:11	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8076 to https://alumaxboats.nl/en/the-benefits-of-aluminum/
+10:42:12	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7809
+10:42:12	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7809 to https://alumaxboats.nl/en/multifunctional-aluminum-boats/
+10:42:12	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7820
+10:42:12	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7820 to https://alumaxboats.nl/en/register-your-boat/
+10:42:12	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7803
+10:42:12	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7803 to https://alumaxboats.nl/en/cookie-policy/
+10:42:12	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7819
+10:42:12	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7819 to https://alumaxboats.nl/en/privacy-statement/
+10:42:12	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8359
+10:42:12	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8359 to https://alumaxboats.nl/en/disclaimer/
+10:42:12	Warning: 	Moved Permanently for https://alumaxboats.nl/en/private-use/page/1/
+10:42:12	Warning: 	File has moved from https://alumaxboats.nl/en/private-use/page/1/ to https://alumaxboats.nl/en/private-use/
+10:42:12	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8478
+10:42:12	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8478 to https://alumaxboats.nl/en/occasions-en/occasion-bull-50-e/
+10:42:12	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Foccasions-en%2Foccasion-bull-50-e%2F (from https://alumaxboats.nl/en/occasions-en/occasion-bull-50-e/)
+10:42:12	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Foccasions-en%2Foccasion-bull-50-e%2F&format=xml (from https://alumaxboats.nl/en/occasions-en/occasion-bull-50-e/)
+10:42:16	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8434
+10:42:16	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8434 to https://alumaxboats.nl/en/private-use/occasion-bullit-600-inboard/
+10:42:16	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fprivate-use%2Foccasion-bullit-600-inboard%2F (from https://alumaxboats.nl/en/private-use/occasion-bullit-600-inboard/)
+10:42:16	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fprivate-use%2Foccasion-bullit-600-inboard%2F&format=xml (from https://alumaxboats.nl/en/private-use/occasion-bullit-600-inboard/)
+10:42:17	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8476
+10:42:17	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8476 to https://alumaxboats.nl/en/occasions-en/occasion-bullit-600-outboard/
+10:42:18	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Foccasions-en%2Foccasion-bullit-600-outboard%2F (from https://alumaxboats.nl/en/occasions-en/occasion-bullit-600-outboard/)
+10:42:18	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Foccasions-en%2Foccasion-bullit-600-outboard%2F&format=xml (from https://alumaxboats.nl/en/occasions-en/occasion-bullit-600-outboard/)
+10:42:19	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8743
+10:42:19	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8743 to https://alumaxboats.nl/en/occasions-en/occasion-the-next-620/
+10:42:19	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Foccasions-en%2Foccasion-the-next-620%2F (from https://alumaxboats.nl/en/occasions-en/occasion-the-next-620/)
+10:42:19	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Foccasions-en%2Foccasion-the-next-620%2F&format=xml (from https://alumaxboats.nl/en/occasions-en/occasion-the-next-620/)
+10:42:21	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8744
+10:42:21	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8744 to https://alumaxboats.nl/en/private-use/occasion-the-next-e/
+10:42:21	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fprivate-use%2Foccasion-the-next-e%2F (from https://alumaxboats.nl/en/private-use/occasion-the-next-e/)
+10:42:21	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fprivate-use%2Foccasion-the-next-e%2F&format=xml (from https://alumaxboats.nl/en/private-use/occasion-the-next-e/)
+10:42:21	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7842
+10:42:21	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7842 to https://alumaxboats.nl/en/sloops/the-next-620/
+10:42:21	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fsloops%2Fthe-next-620%2F (from https://alumaxboats.nl/en/sloops/the-next-620/)
+10:42:21	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fsloops%2Fthe-next-620%2F&format=xml (from https://alumaxboats.nl/en/sloops/the-next-620/)
+10:42:21	Warning: 	Moved Permanently for https://alumaxboats.nl/en/sloops/the-next-e/
+10:42:21	Warning: 	File has moved from https://alumaxboats.nl/en/sloops/the-next-e/ to https://alumaxboats.nl/en/private-use/the-next-e/
+10:42:21	Warning: 	Moved Permanently for https://alumaxboats.nl/en/sloops/the-next-outboard/
+10:42:21	Warning: 	File has moved from https://alumaxboats.nl/en/sloops/the-next-outboard/ to https://alumaxboats.nl/en/private-use/the-next-outboard/
+10:42:31	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7833
+10:42:31	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7833 to https://alumaxboats.nl/en/private-use/aluminiumtender7meter/
+10:42:31	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fprivate-use%2Faluminiumtender7meter%2F (from https://alumaxboats.nl/en/private-use/aluminiumtender7meter/)
+10:42:31	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fprivate-use%2Faluminiumtender7meter%2F&format=xml (from https://alumaxboats.nl/en/private-use/aluminiumtender7meter/)
+10:42:42	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7863
+10:42:42	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7863 to https://alumaxboats.nl/en/tenders-en/bullit-660-outboard/
+10:42:42	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Ftenders-en%2Fbullit-660-outboard%2F (from https://alumaxboats.nl/en/tenders-en/bullit-660-outboard/)
+10:42:42	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Ftenders-en%2Fbullit-660-outboard%2F&format=xml (from https://alumaxboats.nl/en/tenders-en/bullit-660-outboard/)
+10:42:42	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7867
+10:42:42	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7867 to https://alumaxboats.nl/en/tenders-en/bullit-600-outboard/
+10:42:42	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Ftenders-en%2Fbullit-600-outboard%2F (from https://alumaxboats.nl/en/tenders-en/bullit-600-outboard/)
+10:42:42	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Ftenders-en%2Fbullit-600-outboard%2F&format=xml (from https://alumaxboats.nl/en/tenders-en/bullit-600-outboard/)
+10:42:42	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7871
+10:42:42	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7871 to https://alumaxboats.nl/en/tenders-en/bullit-600-inboard/
+10:42:42	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Ftenders-en%2Fbullit-600-inboard%2F (from https://alumaxboats.nl/en/tenders-en/bullit-600-inboard/)
+10:42:42	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Ftenders-en%2Fbullit-600-inboard%2F&format=xml (from https://alumaxboats.nl/en/tenders-en/bullit-600-inboard/)
+10:42:42	Warning: 	Moved Permanently for https://alumaxboats.nl/en/workboats/workboat-600/
+10:42:42	Warning: 	File has moved from https://alumaxboats.nl/en/workboats/workboat-600/ to https://alumaxboats.nl/en/fire-brigade/work-boat-600/
+10:42:47	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7832
+10:42:47	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7832 to https://alumaxboats.nl/en/tenders-en/bullit-600-e/
+10:42:47	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Ftenders-en%2Fbullit-600-e%2F (from https://alumaxboats.nl/en/tenders-en/bullit-600-e/)
+10:42:47	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Ftenders-en%2Fbullit-600-e%2F&format=xml (from https://alumaxboats.nl/en/tenders-en/bullit-600-e/)
+10:42:47	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7868
+10:42:47	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7868 to https://alumaxboats.nl/en/tenders-en/bullit-540-outboard/
+10:42:47	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Ftenders-en%2Fbullit-540-outboard%2F (from https://alumaxboats.nl/en/tenders-en/bullit-540-outboard/)
+10:42:47	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Ftenders-en%2Fbullit-540-outboard%2F&format=xml (from https://alumaxboats.nl/en/tenders-en/bullit-540-outboard/)
+10:42:47	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7873
+10:42:47	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7873 to https://alumaxboats.nl/en/tenders-en/bullit-540-inboard/
+10:42:47	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Ftenders-en%2Fbullit-540-inboard%2F (from https://alumaxboats.nl/en/tenders-en/bullit-540-inboard/)
+10:42:47	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Ftenders-en%2Fbullit-540-inboard%2F&format=xml (from https://alumaxboats.nl/en/tenders-en/bullit-540-inboard/)
+10:42:47	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7874
+10:42:47	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7874 to https://alumaxboats.nl/en/tenders-en/bullit-540-e/
+10:42:47	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Ftenders-en%2Fbullit-540-e%2F (from https://alumaxboats.nl/en/tenders-en/bullit-540-e/)
+10:42:47	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Ftenders-en%2Fbullit-540-e%2F&format=xml (from https://alumaxboats.nl/en/tenders-en/bullit-540-e/)
+10:42:47	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7870
+10:42:47	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7870 to https://alumaxboats.nl/en/tenders-en/bullit-470-outboard/
+10:42:47	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Ftenders-en%2Fbullit-470-outboard%2F (from https://alumaxboats.nl/en/tenders-en/bullit-470-outboard/)
+10:42:47	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Ftenders-en%2Fbullit-470-outboard%2F&format=xml (from https://alumaxboats.nl/en/tenders-en/bullit-470-outboard/)
+10:42:47	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7877
+10:42:47	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7877 to https://alumaxboats.nl/en/private-use/the-next-outboard/
+10:42:47	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fprivate-use%2Fthe-next-outboard%2F (from https://alumaxboats.nl/en/private-use/the-next-outboard/)
+10:42:48	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fprivate-use%2Fthe-next-outboard%2F&format=xml (from https://alumaxboats.nl/en/private-use/the-next-outboard/)
+10:42:48	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7878
+10:42:48	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7878 to https://alumaxboats.nl/en/sloops/bull-60-e/
+10:42:48	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fsloops%2Fbull-60-e%2F (from https://alumaxboats.nl/en/sloops/bull-60-e/)
+10:42:48	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fsloops%2Fbull-60-e%2F&format=xml (from https://alumaxboats.nl/en/sloops/bull-60-e/)
+10:42:48	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7879
+10:42:48	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7879 to https://alumaxboats.nl/en/sloops/bull-50-e/
+10:42:48	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fsloops%2Fbull-50-e%2F (from https://alumaxboats.nl/en/sloops/bull-50-e/)
+10:42:48	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fsloops%2Fbull-50-e%2F&format=xml (from https://alumaxboats.nl/en/sloops/bull-50-e/)
+10:42:48	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7883
+10:42:48	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7883 to https://alumaxboats.nl/en/private-use/sportfisher/
+10:42:48	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fprivate-use%2Fsportfisher%2F (from https://alumaxboats.nl/en/private-use/sportfisher/)
+10:42:48	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fprivate-use%2Fsportfisher%2F&format=xml (from https://alumaxboats.nl/en/private-use/sportfisher/)
+10:42:52	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7882
+10:42:52	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7882 to https://alumaxboats.nl/en/work-boats/500-jon/
+10:42:52	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fwork-boats%2F500-jon%2F (from https://alumaxboats.nl/en/work-boats/500-jon/)
+10:42:52	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fwork-boats%2F500-jon%2F&format=xml (from https://alumaxboats.nl/en/work-boats/500-jon/)
+10:42:57	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7831
+10:42:57	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7831 to https://alumaxboats.nl/en/work-boats/watertaxi-20-hydrogen/
+10:42:57	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fwork-boats%2Fwatertaxi-20-hydrogen%2F (from https://alumaxboats.nl/en/work-boats/watertaxi-20-hydrogen/)
+10:42:57	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fwork-boats%2Fwatertaxi-20-hydrogen%2F&format=xml (from https://alumaxboats.nl/en/work-boats/watertaxi-20-hydrogen/)
+10:42:58	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7841
+10:42:58	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7841 to https://alumaxboats.nl/en/work-boats/aluminum-electric-watertaxi-30-xl/
+10:42:58	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fwork-boats%2Faluminum-electric-watertaxi-30-xl%2F (from https://alumaxboats.nl/en/work-boats/aluminum-electric-watertaxi-30-xl/)
+10:42:58	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fwork-boats%2Faluminum-electric-watertaxi-30-xl%2F&format=xml (from https://alumaxboats.nl/en/work-boats/aluminum-electric-watertaxi-30-xl/)
+10:43:02	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7836
+10:43:02	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7836 to https://alumaxboats.nl/en/work-boats/water-taxi-30-fl/
+10:43:02	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fwork-boats%2Fwater-taxi-30-fl%2F (from https://alumaxboats.nl/en/work-boats/water-taxi-30-fl/)
+10:43:02	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fwork-boats%2Fwater-taxi-30-fl%2F&format=xml (from https://alumaxboats.nl/en/work-boats/water-taxi-30-fl/)
+10:43:04	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7843
+10:43:04	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7843 to https://alumaxboats.nl/en/work-boats/aluminum-watertaxi-10/
+10:43:04	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fwork-boats%2Faluminum-watertaxi-10%2F (from https://alumaxboats.nl/en/work-boats/aluminum-watertaxi-10/)
+10:43:04	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fwork-boats%2Faluminum-watertaxi-10%2F&format=xml (from https://alumaxboats.nl/en/work-boats/aluminum-watertaxi-10/)
+10:43:04	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7845
+10:43:04	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7845 to https://alumaxboats.nl/en/work-boats/worker-41/
+10:43:04	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fwork-boats%2Fworker-41%2F (from https://alumaxboats.nl/en/work-boats/worker-41/)
+10:43:04	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fwork-boats%2Fworker-41%2F&format=xml (from https://alumaxboats.nl/en/work-boats/worker-41/)
+10:43:07	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7847
+10:43:07	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7847 to https://alumaxboats.nl/en/cabin-boats/aluminum-workboat-worker-33/
+10:43:07	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fcabin-boats%2Faluminum-workboat-worker-33%2F (from https://alumaxboats.nl/en/cabin-boats/aluminum-workboat-worker-33/)
+10:43:07	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fcabin-boats%2Faluminum-workboat-worker-33%2F&format=xml (from https://alumaxboats.nl/en/cabin-boats/aluminum-workboat-worker-33/)
+10:43:07	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7835
+10:43:07	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7835 to https://alumaxboats.nl/en/work-boats/fishing-trawler-72/
+10:43:07	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fwork-boats%2Ffishing-trawler-72%2F (from https://alumaxboats.nl/en/work-boats/fishing-trawler-72/)
+10:43:07	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fwork-boats%2Ffishing-trawler-72%2F&format=xml (from https://alumaxboats.nl/en/work-boats/fishing-trawler-72/)
+10:43:08	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7848
+10:43:08	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7848 to https://alumaxboats.nl/en/cabin-boats/aluminum-workboat-worker-850/
+10:43:08	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fcabin-boats%2Faluminum-workboat-worker-850%2F (from https://alumaxboats.nl/en/cabin-boats/aluminum-workboat-worker-850/)
+10:43:08	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fcabin-boats%2Faluminum-workboat-worker-850%2F&format=xml (from https://alumaxboats.nl/en/cabin-boats/aluminum-workboat-worker-850/)
+10:43:08	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7855
+10:43:08	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7855 to https://alumaxboats.nl/en/fire-brigade/alumninum-workboat-750/
+10:43:08	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Ffire-brigade%2Falumninum-workboat-750%2F (from https://alumaxboats.nl/en/fire-brigade/alumninum-workboat-750/)
+10:43:08	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Ffire-brigade%2Falumninum-workboat-750%2F&format=xml (from https://alumaxboats.nl/en/fire-brigade/alumninum-workboat-750/)
+10:43:08	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7834
+10:43:08	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7834 to https://alumaxboats.nl/en/fire-brigade/worker-650/
+10:43:08	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Ffire-brigade%2Fworker-650%2F (from https://alumaxboats.nl/en/fire-brigade/worker-650/)
+10:43:08	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Ffire-brigade%2Fworker-650%2F&format=xml (from https://alumaxboats.nl/en/fire-brigade/worker-650/)
+10:43:08	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7861
+10:43:08	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7861 to https://alumaxboats.nl/en/fire-brigade/aluminum-workboat-540/
+10:43:08	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Ffire-brigade%2Faluminum-workboat-540%2F (from https://alumaxboats.nl/en/fire-brigade/aluminum-workboat-540/)
+10:43:08	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Ffire-brigade%2Faluminum-workboat-540%2F&format=xml (from https://alumaxboats.nl/en/fire-brigade/aluminum-workboat-540/)
+10:43:08	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7880
+10:43:08	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7880 to https://alumaxboats.nl/en/fire-brigade/work-boat-600/
+10:43:08	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Ffire-brigade%2Fwork-boat-600%2F (from https://alumaxboats.nl/en/fire-brigade/work-boat-600/)
+10:43:08	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Ffire-brigade%2Fwork-boat-600%2F&format=xml (from https://alumaxboats.nl/en/fire-brigade/work-boat-600/)
+10:43:08	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7864
+10:43:08	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7864 to https://alumaxboats.nl/en/work-boats/work-boat-660/
+10:43:08	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fwork-boats%2Fwork-boat-660%2F (from https://alumaxboats.nl/en/work-boats/work-boat-660/)
+10:43:08	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fwork-boats%2Fwork-boat-660%2F&format=xml (from https://alumaxboats.nl/en/work-boats/work-boat-660/)
+10:43:08	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7837
+10:43:08	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7837 to https://alumaxboats.nl/en/m-o-b/m-o-b-540/
+10:43:08	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fm-o-b%2Fm-o-b-540%2F (from https://alumaxboats.nl/en/m-o-b/m-o-b-540/)
+10:43:08	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fm-o-b%2Fm-o-b-540%2F&format=xml (from https://alumaxboats.nl/en/m-o-b/m-o-b-540/)
+10:43:08	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7838
+10:43:08	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7838 to https://alumaxboats.nl/en/m-o-b/m-o-b-470/
+10:43:09	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fm-o-b%2Fm-o-b-470%2F (from https://alumaxboats.nl/en/m-o-b/m-o-b-470/)
+10:43:09	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fm-o-b%2Fm-o-b-470%2F&format=xml (from https://alumaxboats.nl/en/m-o-b/m-o-b-470/)
+10:46:56	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=11501
+10:46:56	Warning: 	File has moved from https://alumaxboats.nl/en/?p=11501 to https://alumaxboats.nl/en/king-of-the-netherlands-visits-alumax-boats/
+10:46:56	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=9943
+10:46:56	Warning: 	File has moved from https://alumaxboats.nl/en/?p=9943 to https://alumaxboats.nl/en/alumax-is-riding-the-waves/
+10:46:56	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=9615
+10:46:56	Warning: 	File has moved from https://alumaxboats.nl/en/?p=9615 to https://alumaxboats.nl/en/alumax-boats-introduces-the-waterbus-fifty/
+10:46:57	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8858
+10:46:57	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8858 to https://alumaxboats.nl/en/alumax-boats-expands-solidly/
+10:46:57	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8852
+10:46:57	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8852 to https://alumaxboats.nl/en/drents-entrepreneur-of-the-month-october-2022/
+10:46:57	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7751
+10:46:57	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7751 to https://alumaxboats.nl/en/victronconnect-app-for-our-electric-sloops/
+10:50:18	Warning: 	Moved Permanently for https://alumaxboats.nl/en/news/6/
+10:50:18	Warning: 	File has moved from https://alumaxboats.nl/en/news/6/ to https://alumaxboats.nl/en/news/
+10:50:18	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7707
+10:50:18	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7707 to https://alumaxboats.nl/en/de-voordelen-van-aluminium/
+10:50:18	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/de-voordelen-van-aluminium/https:/alumaxboats.nl/wp-content/uploads/2020/12/trimDSC_5637-1.png (from https://alumaxboats.nl/en/de-voordelen-van-aluminium/)
+10:50:18	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/de-voordelen-van-aluminium/https:/alumaxboats.nl/wp-content/uploads/2020/12/BULL-60_5-scaled.jpg (from https://alumaxboats.nl/en/de-voordelen-van-aluminium/)
+10:50:18	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/de-voordelen-van-aluminium/https:/alumaxboats.nl/wp-content/uploads/2020/12/DSC_5867-1-scaled.jpg (from https://alumaxboats.nl/en/de-voordelen-van-aluminium/)
+10:50:18	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/de-voordelen-van-aluminium/https:/alumaxboats.nl/wp-content/uploads/2020/12/bullit540-out-voorkant.png (from https://alumaxboats.nl/en/de-voordelen-van-aluminium/)
+10:50:18	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/de-voordelen-van-aluminium/https:/alumaxboats.nl/wp-content/uploads/2020/12/IMG_20200616_120858-scaled.jpg (from https://alumaxboats.nl/en/de-voordelen-van-aluminium/)
+10:50:18	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7769
+10:50:18	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7769 to https://alumaxboats.nl/en/the-advantages-of-an-electric-drive/
+10:50:18	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7771
+10:50:18	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7771 to https://alumaxboats.nl/en/the-advantages-of-an-outboard-engine/
+10:50:18	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7770
+10:50:18	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7770 to https://alumaxboats.nl/en/the-advantages-of-an-inboard-engine/
+10:50:18	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8068
+10:50:18	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8068 to https://alumaxboats.nl/en/how-to-clean-an-aluminum-boat/
+10:50:18	Warning: 	Moved Permanently for https://alumaxboats.nl/en/accessories/maritime-clean-r8/
+10:50:18	Warning: 	File has moved from https://alumaxboats.nl/en/accessories/maritime-clean-r8/ to https://alumaxboats.nl/en/webshop-en/maritime-clean-r8/
+10:50:20	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7762
+10:50:20	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7762 to https://alumaxboats.nl/en/design-categories/
+10:50:20	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8069
+10:50:20	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8069 to https://alumaxboats.nl/en/taking-care-of-batteries/
+10:50:22	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8038
+10:50:22	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8038 to https://alumaxboats.nl/en/aluminum-tender-boats/
+10:50:22	Warning: 	Moved Permanently for https://alumaxboats.nl/en/fire-brigade/7861/
+10:50:22	Warning: 	File has moved from https://alumaxboats.nl/en/fire-brigade/7861/ to https://alumaxboats.nl/en/work-boats/fire-brigade/
+10:50:22	Warning: 	Moved Permanently for https://alumaxboats.nl/en/fire-brigade/work-boat-660/
+10:50:22	Warning: 	File has moved from https://alumaxboats.nl/en/fire-brigade/work-boat-660/ to https://alumaxboats.nl/en/work-boats/work-boat-660/
+10:50:22	Warning: 	Moved Permanently for https://alumaxboats.nl/en/patrol/worker-41/
+10:50:22	Warning: 	File has moved from https://alumaxboats.nl/en/patrol/worker-41/ to https://alumaxboats.nl/en/work-boats/worker-41/
+10:50:22	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8066
+10:50:22	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8066 to https://alumaxboats.nl/en/the-olympic-bullit-660-special-2012-london/
+10:50:22	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8070
+10:50:22	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8070 to https://alumaxboats.nl/en/anode-the-guardian-angel-of-your-boat/
+10:51:09	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8075
+10:51:09	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8075 to https://alumaxboats.nl/en/ultimate-joy-with-an-electric-boat/
+10:51:09	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7775
+10:51:09	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7775 to https://alumaxboats.nl/en/what-is-a-tender-boat/
+10:51:10	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8029
+10:51:10	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8029 to https://alumaxboats.nl/en/webshop-en/alumax-beanie/
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fwebshop-en%2Falumax-beanie%2F (from https://alumaxboats.nl/en/webshop-en/alumax-beanie/)
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fwebshop-en%2Falumax-beanie%2F&format=xml (from https://alumaxboats.nl/en/webshop-en/alumax-beanie/)
+10:51:10	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8027
+10:51:10	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8027 to https://alumaxboats.nl/en/clothing/alumax-hoodie/
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fclothing%2Falumax-hoodie%2F (from https://alumaxboats.nl/en/clothing/alumax-hoodie/)
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fclothing%2Falumax-hoodie%2F&format=xml (from https://alumaxboats.nl/en/clothing/alumax-hoodie/)
+10:51:10	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8023
+10:51:10	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8023 to https://alumaxboats.nl/en/accessories/bull-towel/
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Faccessories%2Fbull-towel%2F (from https://alumaxboats.nl/en/accessories/bull-towel/)
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Faccessories%2Fbull-towel%2F&format=xml (from https://alumaxboats.nl/en/accessories/bull-towel/)
+10:51:10	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8033
+10:51:10	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8033 to https://alumaxboats.nl/en/clothing/bull-polo/
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fclothing%2Fbull-polo%2F (from https://alumaxboats.nl/en/clothing/bull-polo/)
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fclothing%2Fbull-polo%2F&format=xml (from https://alumaxboats.nl/en/clothing/bull-polo/)
+10:51:10	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8017
+10:51:10	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8017 to https://alumaxboats.nl/en/accessories/bullit-fender/
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Faccessories%2Fbullit-fender%2F (from https://alumaxboats.nl/en/accessories/bullit-fender/)
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Faccessories%2Fbullit-fender%2F&format=xml (from https://alumaxboats.nl/en/accessories/bullit-fender/)
+10:51:10	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8025
+10:51:10	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8025 to https://alumaxboats.nl/en/accessories/bullit-towel/
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Faccessories%2Fbullit-towel%2F (from https://alumaxboats.nl/en/accessories/bullit-towel/)
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Faccessories%2Fbullit-towel%2F&format=xml (from https://alumaxboats.nl/en/accessories/bullit-towel/)
+10:51:10	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8030
+10:51:10	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8030 to https://alumaxboats.nl/en/clothing/bullit-polo/
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fclothing%2Fbullit-polo%2F (from https://alumaxboats.nl/en/clothing/bullit-polo/)
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fclothing%2Fbullit-polo%2F&format=xml (from https://alumaxboats.nl/en/clothing/bullit-polo/)
+10:51:10	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8021
+10:51:10	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8021 to https://alumaxboats.nl/en/webshop-en/console-cover/
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fwebshop-en%2Fconsole-cover%2F (from https://alumaxboats.nl/en/webshop-en/console-cover/)
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fwebshop-en%2Fconsole-cover%2F&format=xml (from https://alumaxboats.nl/en/webshop-en/console-cover/)
+10:51:10	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8014
+10:51:10	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8014 to https://alumaxboats.nl/en/accessories/detachable-table/
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Faccessories%2Fdetachable-table%2F (from https://alumaxboats.nl/en/accessories/detachable-table/)
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Faccessories%2Fdetachable-table%2F&format=xml (from https://alumaxboats.nl/en/accessories/detachable-table/)
+10:51:10	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8022
+10:51:10	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8022 to https://alumaxboats.nl/en/accessories/flag-set-stainless-steel/
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Faccessories%2Fflag-set-stainless-steel%2F (from https://alumaxboats.nl/en/accessories/flag-set-stainless-steel/)
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Faccessories%2Fflag-set-stainless-steel%2F&format=xml (from https://alumaxboats.nl/en/accessories/flag-set-stainless-steel/)
+10:51:10	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8013
+10:51:10	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8013 to https://alumaxboats.nl/en/accessories/floating-keychain/
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Faccessories%2Ffloating-keychain%2F (from https://alumaxboats.nl/en/accessories/floating-keychain/)
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Faccessories%2Ffloating-keychain%2F&format=xml (from https://alumaxboats.nl/en/accessories/floating-keychain/)
+10:51:10	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8018
+10:51:10	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8018 to https://alumaxboats.nl/en/webshop-en/maritime-clean-r8/
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fwebshop-en%2Fmaritime-clean-r8%2F (from https://alumaxboats.nl/en/webshop-en/maritime-clean-r8/)
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fwebshop-en%2Fmaritime-clean-r8%2F&format=xml (from https://alumaxboats.nl/en/webshop-en/maritime-clean-r8/)
+10:51:10	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8026
+10:51:10	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8026 to https://alumaxboats.nl/en/gadgets-en/playing-cards/
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fgadgets-en%2Fplaying-cards%2F (from https://alumaxboats.nl/en/gadgets-en/playing-cards/)
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Fgadgets-en%2Fplaying-cards%2F&format=xml (from https://alumaxboats.nl/en/gadgets-en/playing-cards/)
+10:51:10	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8015
+10:51:10	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8015 to https://alumaxboats.nl/en/accessories/stainless-steel-handle/
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Faccessories%2Fstainless-steel-handle%2F (from https://alumaxboats.nl/en/accessories/stainless-steel-handle/)
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Faccessories%2Fstainless-steel-handle%2F&format=xml (from https://alumaxboats.nl/en/accessories/stainless-steel-handle/)
+10:51:10	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8020
+10:51:10	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8020 to https://alumaxboats.nl/en/accessories/swim-ladder-3/
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Faccessories%2Fswim-ladder-3%2F (from https://alumaxboats.nl/en/accessories/swim-ladder-3/)
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Faccessories%2Fswim-ladder-3%2F&format=xml (from https://alumaxboats.nl/en/accessories/swim-ladder-3/)
+10:51:10	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8019
+10:51:10	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8019 to https://alumaxboats.nl/en/accessories/swim-ladder-4-steps/
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Faccessories%2Fswim-ladder-4-steps%2F (from https://alumaxboats.nl/en/accessories/swim-ladder-4-steps/)
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Faccessories%2Fswim-ladder-4-steps%2F&format=xml (from https://alumaxboats.nl/en/accessories/swim-ladder-4-steps/)
+10:51:10	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8024
+10:51:10	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8024 to https://alumaxboats.nl/en/accessories/the-next-towel/
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Faccessories%2Fthe-next-towel%2F (from https://alumaxboats.nl/en/accessories/the-next-towel/)
+10:51:10	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumaxboats.nl%2Fen%2Faccessories%2Fthe-next-towel%2F&format=xml (from https://alumaxboats.nl/en/accessories/the-next-towel/)
+10:51:10	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7753
+10:51:10	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7753 to https://alumaxboats.nl/en/straighten-your-boat-with-dometic-trim-tab-system/
+10:51:10	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7754
+10:51:10	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7754 to https://alumaxboats.nl/en/7-tips-for-a-safe-trip/
+10:51:10	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7755
+10:51:10	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7755 to https://alumaxboats.nl/en/how-to-refill-your-batteries/
+10:51:11	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7756
+10:51:11	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7756 to https://alumaxboats.nl/en/hydrogen-water-taxi-rotterdam-is-full-of-innovations/
+10:51:11	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7757
+10:51:11	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7757 to https://alumaxboats.nl/en/alumax-trial-days-26-and-27-march-2022/
+10:51:11	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/layouts/header-bullit660/bullit-660-outboard-2/ (from https://alumaxboats.nl/en/alumax-trial-days-26-and-27-march-2022/)
+10:51:11	Warning: 	Moved Permanently for https://alumaxboats.nl/en/tenders-en/aluminiumtender7meter/
+10:51:11	Warning: 	File has moved from https://alumaxboats.nl/en/tenders-en/aluminiumtender7meter/ to https://alumaxboats.nl/en/private-use/aluminiumtender7meter/
+10:51:11	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7758
+10:51:11	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7758 to https://alumaxboats.nl/en/alumax-boats-2021/
+10:51:11	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7760
+10:51:11	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7760 to https://alumaxboats.nl/en/winterize-your-aluminum-boat/
+10:51:11	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7763
+10:51:11	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7763 to https://alumaxboats.nl/en/suzukis-microplastic-filter/
+10:51:12	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7990
+10:51:12	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7990 to https://alumaxboats.nl/en/alumax-boats-asks-to-make-tempo-with-hydrogen/
+10:51:12	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8007
+10:51:12	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8007 to https://alumaxboats.nl/en/better-informed-sailing/
+10:51:12	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7764
+10:51:12	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7764 to https://alumaxboats.nl/en/service-app-for-outboard-engines/
+10:51:13	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7766
+10:51:13	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7766 to https://alumaxboats.nl/en/bullit-600-with-new-df140bg-drive-by-wire/
+10:51:13	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7767
+10:51:13	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7767 to https://alumaxboats.nl/en/what-is-a-weed-filter/
+10:51:13	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7768
+10:51:13	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7768 to https://alumaxboats.nl/en/alumax-trial-days-11-and-12-september-2021/
+10:51:13	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7772
+10:51:13	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7772 to https://alumaxboats.nl/en/multi-day-sloop-trip/
+10:51:14	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=7774
+10:51:14	Warning: 	File has moved from https://alumaxboats.nl/en/?p=7774 to https://alumaxboats.nl/en/coloring-pages-for-the-opkikker-foundation/
+10:51:14	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8008
+10:51:14	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8008 to https://alumaxboats.nl/en/check-the-wind-before-you-go-sailing/
+10:51:14	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8009
+10:51:14	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8009 to https://alumaxboats.nl/en/nautical-terminology-for-beginners/
+10:51:14	Warning: 	Moved Permanently for https://alumaxboats.nl/en/breedte/210m-245m/page/1/
+10:51:14	Warning: 	File has moved from https://alumaxboats.nl/en/breedte/210m-245m/page/1/ to https://alumaxboats.nl/en/breedte/210m-245m/
+10:51:14	Warning: 	Moved Permanently for https://alumaxboats.nl/en/doorvaarthoogte/105m-115m/page/1/
+10:51:14	Warning: 	File has moved from https://alumaxboats.nl/en/doorvaarthoogte/105m-115m/page/1/ to https://alumaxboats.nl/en/doorvaarthoogte/105m-115m/
+10:52:43	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/category/alumax-en/page/6/ (from https://alumaxboats.nl/en/category/alumax-en/page/5/)
+10:52:43	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/category/alumax-en/knowledge/page/3/ (from https://alumaxboats.nl/en/category/alumax-en/knowledge/page/2/)
+10:52:43	Error: 	"Not Found" (404) at link https://alumaxboats.nl/en/category/alumax-en/news/page/3/ (from https://alumaxboats.nl/en/category/alumax-en/news/page/2/)
+10:52:43	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8071
+10:52:43	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8071 to https://alumaxboats.nl/en/is-your-boat-ready-to-go/
+10:52:43	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8072
+10:52:43	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8072 to https://alumaxboats.nl/en/how-do-i-clean-my-sunbrella-cushion-set/
+10:52:43	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8073
+10:52:43	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8073 to https://alumaxboats.nl/en/keep-your-sunbrella-cushion-set-looking-good/
+10:52:43	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8074
+10:52:43	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8074 to https://alumaxboats.nl/en/sailing-is-something-you-do-together/
+10:52:43	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8081
+10:52:43	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8081 to https://alumaxboats.nl/en/alumax-trial-days-2020/
+10:52:43	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8077
+10:52:43	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8077 to https://alumaxboats.nl/en/we-want-to-say-a-few-words/
+10:52:43	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8078
+10:52:43	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8078 to https://alumaxboats.nl/en/alumax-in-the-news-again/
+10:52:44	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8079
+10:52:44	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8079 to https://alumaxboats.nl/en/a-nice-review-for-the-bullit-600/
+10:52:44	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8177
+10:52:44	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8177 to https://alumaxboats.nl/en/rtv-drenthe-on-start-watertaxi/
+10:52:44	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8178
+10:52:44	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8178 to https://alumaxboats.nl/en/worker-41-firefighter-for-vietnam/
+10:52:44	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8082
+10:52:44	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8082 to https://alumaxboats.nl/en/wartertaxi-rotterdam-places-large-order-with-alumax/
+10:52:44	Warning: 	Moved Permanently for https://alumaxboats.nl/en/?p=8083
+10:52:44	Warning: 	File has moved from https://alumaxboats.nl/en/?p=8083 to https://alumaxboats.nl/en/positive-test-results-for-the-next/
+
+HTTrack Website Copier/3.49-2 mirror complete in 48 minutes 7 seconds : 1700 links scanned, 1408 files written (221289380 bytes overall) [189700734 bytes received at 65708 bytes/sec], 49401899 bytes transferred using HTTP compression in 280 files, ratio 18%
+(160 errors, 265 warnings, 0 messages)
